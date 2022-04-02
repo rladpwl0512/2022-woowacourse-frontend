@@ -28,7 +28,7 @@
 
 |미션|페어|PR|코드리뷰(정리)|회고|리뷰어님
 |-|-|-|-|-|-|
-|[계산기](https://github.com/rladpwl0512/javascript-calculator)|@DomMorello, @InKyoJeong|[pull request](https://github.com/rladpwl0512/javascript-calculator)|X|X|X|
+|[계산기](https://github.com/woowacourse/javascript-calculator)|@DomMorello, @InKyoJeong|[pull request](https://github.com/woowacourse/javascript-calculator/pull/37)|X|X|X|
 |[level1-자동차 경주](https://github.com/woowacourse/javascript-racingcar)|@DomMorello, @InKyoJeong|[pull request](https://github.com/woowacourse/javascript-racingcar/pull/66)|X|X|@inwalter99|
 |[level2-자동차 경주](https://github.com/woowacourse/javascript-racingcar)|X|[pull request](https://github.com/woowacourse/javascript-racingcar/pull/147)|X|X|@inwalter99|
 |[level1-로또](https://github.com/woowacourse/javascript-lotto)|@hwangstar156|[pull request](https://github.com/woowacourse/javascript-lotto/pull/96)|X|X|@lsw1164|
