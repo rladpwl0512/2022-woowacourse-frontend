@@ -27,19 +27,19 @@
 ✅ 구현한 코드에 대해 E2E 테스트, 유닛 테스트를 작성하고 읽기 좋은 코드로 리팩터링합니다.
 
 ### 기록 
-코드리뷰 정리-공동 피드백, 내 피드백, 크루 피드백 
+코드리뷰 정리-공동 피드백, 내 피드백, 크루 피드백
 
 |미션|페어|PR|코드리뷰(정리)|회고|리뷰어님
 |-|-|-|-|-|-|
-|[계산기](https://github.com/woowacourse/javascript-calculator)|@DomMorello, @InKyoJeong|[pull request](https://github.com/woowacourse/javascript-calculator/pull/37)|X|X|X|
-|[level1-자동차 경주](https://github.com/woowacourse/javascript-racingcar)|@DomMorello, @InKyoJeong|[pull request](https://github.com/woowacourse/javascript-racingcar/pull/66)|X|X|@inwalter99|
-|[level2-자동차 경주](https://github.com/woowacourse/javascript-racingcar)|X|[pull request](https://github.com/woowacourse/javascript-racingcar/pull/147)|X|X|@inwalter99|
-|[level1-로또](https://github.com/woowacourse/javascript-lotto)|@hwangstar156|[pull request](https://github.com/woowacourse/javascript-lotto/pull/96)|X|X|@lsw1164|
-|[level2-로또](https://github.com/woowacourse/javascript-lotto)|X|[pull request](https://github.com/woowacourse/javascript-lotto/pull/147)|X|X|@lsw1164|
-|[level1-유튜브 강의실](https://github.com/woowacourse/javascript-youtube-classroom)|@wonsss|[pull request](https://github.com/woowacourse/javascript-youtube-classroom/pull/103)|X|X|@austinpark420 @pocojang|
-|[level2-유튜브 강의실](https://github.com/woowacourse/javascript-youtube-classroom)|X|[pull request](https://github.com/woowacourse/javascript-youtube-classroom/pull/150)|X|X|@wmakerjun|
-|[level1-자판기](https://github.com/woowacourse/javascript-vendingmachine)|@daaaayeah|[pull request](https://github.com/woowacourse/javascript-vendingmachine/pull/36)|X|X|@roy-jung|
-|[level2-자판기](https://github.com/woowacourse/javascript-vendingmachine)|X|[pull request]()|X|X|@roy-jung|
+|[계산기](https://github.com/woowacourse/javascript-calculator)|[@DomMorello](https://github.com/DomMorello) [@InKyoJeong](https://github.com/InKyoJeong)|[pull request](https://github.com/woowacourse/javascript-calculator/pull/37)|X|X|X|
+|[level1-자동차 경주](https://github.com/woowacourse/javascript-racingcar)|[@DomMorello](https://github.com/DomMorello) [@InKyoJeong](https://github.com/InKyoJeong)|[pull request](https://github.com/woowacourse/javascript-racingcar/pull/66)|X|X|[@inwalter99](https://github.com/inwalter99)|
+|[level2-자동차 경주](https://github.com/woowacourse/javascript-racingcar)|X|[pull request](https://github.com/woowacourse/javascript-racingcar/pull/147)|X|X|[@inwalter99](https://github.com/inwalter99)|
+|[level1-로또](https://github.com/woowacourse/javascript-lotto)|[@hwangstar156](https://github.com/hwangstar156)|[pull request](https://github.com/woowacourse/javascript-lotto/pull/96)|X|X|[@lsw1164](https://github.com/lsw1164)|
+|[level2-로또](https://github.com/woowacourse/javascript-lotto)|X|[pull request](https://github.com/woowacourse/javascript-lotto/pull/147)|X|X|[@lsw1164](https://github.com/lsw1164)|
+|[level1-유튜브 강의실](https://github.com/woowacourse/javascript-youtube-classroom)|[@wonsss](https://github.com/wonsss)|[pull request](https://github.com/woowacourse/javascript-youtube-classroom/pull/103)|X|X|[@austinpark420](https://github.com/austinpark420) [@pocojang](https://github.com/pocojang)|
+|[level2-유튜브 강의실](https://github.com/woowacourse/javascript-youtube-classroom)|X|[pull request](https://github.com/woowacourse/javascript-youtube-classroom/pull/150)|X|X|[@wmakerjun](https://github.com/wmakerjun)|
+|[level1-자판기](https://github.com/woowacourse/javascript-vendingmachine)|[@daaaayeah](https://github.com/daaaayeah)|[pull request](https://github.com/woowacourse/javascript-vendingmachine/pull/36)|X|X|[@roy-jung](https://github.com/roy-jung)|
+|[level2-자판기](https://github.com/woowacourse/javascript-vendingmachine)|X|[pull request]()|X|X|[@roy-jung](https://github.com/roy-jung)|
 
 
 ### 블로그 글 
