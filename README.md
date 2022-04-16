@@ -34,13 +34,12 @@
 |[계산기](https://github.com/woowacourse/javascript-calculator)|[@DomMorello](https://github.com/DomMorello) [@InKyoJeong](https://github.com/InKyoJeong)|[pull request](https://github.com/woowacourse/javascript-calculator/pull/37)|X|X|
 |[level1-자동차 경주](https://github.com/woowacourse/javascript-racingcar)|[@DomMorello](https://github.com/DomMorello) [@InKyoJeong](https://github.com/InKyoJeong)|[pull request](https://github.com/woowacourse/javascript-racingcar/pull/66)|[자동차 경주 미션 Learned](https://encouraging-stinger-a25.notion.site/cc35acb844444e37bb93094a194106ac)|[@inwalter99](https://github.com/inwalter99)|
 |[level2-자동차 경주](https://github.com/woowacourse/javascript-racingcar)|X|[pull request](https://github.com/woowacourse/javascript-racingcar/pull/147)|[자동차 경주 미션 Learned](https://encouraging-stinger-a25.notion.site/cc35acb844444e37bb93094a194106ac)|[@inwalter99](https://github.com/inwalter99)|
-|[level1-로또](https://github.com/woowacourse/javascript-lotto)|[@hwangstar156](https://github.com/hwangstar156)|[pull request](https://github.com/woowacourse/javascript-lotto/pull/96)|X|[@lsw1164](https://github.com/lsw1164)|
-|[level2-로또](https://github.com/woowacourse/javascript-lotto)|X|[pull request](https://github.com/woowacourse/javascript-lotto/pull/147)|X|[@lsw1164](https://github.com/lsw1164)|
+|[level1-로또](https://github.com/woowacourse/javascript-lotto)|[@hwangstar156](https://github.com/hwangstar156)|[pull request](https://github.com/woowacourse/javascript-lotto/pull/96)|[로또 미션 Learned](https://encouraging-stinger-a25.notion.site/f883dc9d7a854a19ac2de5b9c6133f8e)|[@lsw1164](https://github.com/lsw1164)|
+|[level2-로또](https://github.com/woowacourse/javascript-lotto)|X|[pull request](https://github.com/woowacourse/javascript-lotto/pull/147)|[로또 미션 Learned](https://encouraging-stinger-a25.notion.site/f883dc9d7a854a19ac2de5b9c6133f8e)|[@lsw1164](https://github.com/lsw1164)|
 |[level1-유튜브 강의실](https://github.com/woowacourse/javascript-youtube-classroom)|[@wonsss](https://github.com/wonsss)|[pull request](https://github.com/woowacourse/javascript-youtube-classroom/pull/103)|X|[@austinpark420](https://github.com/austinpark420) [@pocojang](https://github.com/pocojang)|
 |[level2-유튜브 강의실](https://github.com/woowacourse/javascript-youtube-classroom)|X|[pull request](https://github.com/woowacourse/javascript-youtube-classroom/pull/150)|X|[@wmakerjun](https://github.com/wmakerjun)|
 |[level1-자판기](https://github.com/woowacourse/javascript-vendingmachine)|[@daaaayeah](https://github.com/daaaayeah)|[pull request](https://github.com/woowacourse/javascript-vendingmachine/pull/36)|X|[@roy-jung](https://github.com/roy-jung)|
 |[level2-자판기](https://github.com/woowacourse/javascript-vendingmachine)|X|[pull request]()|X|[@roy-jung](https://github.com/roy-jung)|
-
 
 ### 블로그 글 
 
