@@ -41,10 +41,6 @@
 |[level1-자판기](https://github.com/woowacourse/javascript-vendingmachine)|[@daaaayeah](https://github.com/daaaayeah)|[pull request](https://github.com/woowacourse/javascript-vendingmachine/pull/36)|-|[@roy-jung](https://github.com/roy-jung)|
 |[level2-자판기](https://github.com/woowacourse/javascript-vendingmachine)|-|[pull request]()|[자판기 Learned](https://www.notion.so/study-a35b2caf91764f5bbc0fc388cafe2751)|[@roy-jung](https://github.com/roy-jung)|
 
-### 블로그 글 
-
-### level1 회고 
-
 
 ## level2 
-수업 내용(미션마다 lms 정리) 
+
