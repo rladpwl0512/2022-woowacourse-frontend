@@ -79,13 +79,20 @@
 2022.08.30 ~ 2022.10.28
 
 ### 학습 목표 
-- 프론트엔드의 기본이 되는 HTML, CSS, JavaScript에 대한 기본 문법을 익혀 프로그래밍을 합니다.
-- 구현한 코드에 대해 E2E 테스트, 유닛 테스트를 작성하고 읽기 좋은 코드로 리팩터링합니다.
+- 프론트엔드 성능을 측정, 분석하고 개선해본다.
+  - 성능 개선과 관련된 네트워크 키워드, 브라우저 렌더링 과정에 대한 이해도를 높인다.
+- TypeScript를 깊이있게 이해하고 다뤄본다.
+- 웹접근성 시나리오에 따라 적절한 속성을 추가할 수 있는 역량을 향상해본다.
 
 ### 기록 
-|미션|REPO|PR|공부노트|리뷰어님|페어
-|-|-|-|-|-|-|
-|계산기|[javascript-calculator](https://github.com/woowacourse/javascript-calculator)|[pull request](https://github.com/woowacourse/javascript-calculator/pull/37)|-|-|[@DomMorello](https://github.com/DomMorello) [@InKyoJeong](https://github.com/InKyoJeong)|
+|미션|REPO|PR|공부노트|리뷰어님
+|-|-|-|-|-|
+|프론트엔드 성능 베이스캠프|[perf-basecamp](https://github.com/woowacourse/perf-basecamp)|[pull request](https://github.com/woowacourse/perf-basecamp/pull/53)|-|[@moonheekim0118](https://github.com/moonheekim0118)|
+|TypeScript|[ts-module](https://github.com/woowacourse/ts-module)|[pull request](https://github.com/woowacourse/ts-module/pull/16)|-|[@ronci](https://github.com/ronci)|
+|항공사 웹사이트의 컴포넌트 접근성 높이기 Step1|[a11y-airline](https://github.com/woowacourse/a11y-airline)|[pull request](https://github.com/woowacourse/a11y-airline/pull/54)|-|[@InKyoJeong](https://github.com/InKyoJeong)|
+|항공사 웹사이트의 컴포넌트 접근성 높이기 Step2|[a11y-airline](https://github.com/woowacourse/a11y-airline)|[pull request](https://github.com/woowacourse/a11y-airline/pull/82)|-|[@InKyoJeong](https://github.com/InKyoJeong)|
+
+
 
 ## 5️⃣ level5
 ### 기간 
