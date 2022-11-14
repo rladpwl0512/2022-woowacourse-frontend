@@ -1,5 +1,5 @@
 # 우아한테크코스 프론트엔드 4기 
-[우아한테크코스](https://woowacourse.github.io/) 프론트엔드 4기 과정을 기록합니다.
+[우아한테크코스](https://woowacourse.github.io/) 프론트엔드 4기 과정(2022.02.08 ~ 2022.11.25)을 기록합니다.
 
 <img src="https://user-images.githubusercontent.com/52344833/201592298-a1ed45b2-e763-4d6d-ae4e-32cd4b1fc427.png" width="400px" />
 
