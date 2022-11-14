@@ -1,5 +1,5 @@
-# [우아한테크코스](https://woowacourse.github.io/) 프론트엔드 4기 
-우아한테크코스 프론트엔드 4기 과정을 기록합니다.
+# 우아한테크코스 프론트엔드 4기 
+[우아한테크코스](https://woowacourse.github.io/) 프론트엔드 4기 과정을 기록합니다.
 
 <img src="https://user-images.githubusercontent.com/52344833/201592298-a1ed45b2-e763-4d6d-ae4e-32cd4b1fc427.png" width="400px" />
 
@@ -9,10 +9,10 @@
 ### 기록 
 |미션|REPO|PR|
 |-|-|-|
-|[숫자 야구 게임](https://github.com/woowacourse/javascript-baseball-precourse)|[javascript-baseball-precourse](https://github.com/woowacourse/javascript-baseball-precourse)|[pr](https://github.com/woowacourse/javascript-baseball-precourse/pull/134)|
-|[자동차 경주 게임](https://github.com/woowacourse/javascript-racingcar-precourse)|[javascript-racingcar-precourse](https://github.com/woowacourse/javascript-racingcar-precourse)|[pr](https://github.com/woowacourse/javascript-racingcar-precourse/pull/107)|
-|[자판기](https://github.com/woowacourse/javascript-vendingmachine-precourse)|[javascript-vendingmachine-precourse](https://github.com/woowacourse/javascript-vendingmachine-precourse)|[pr](https://github.com/woowacourse/javascript-vendingmachine-precourse/pull/51)|
-|[팀매칭 프로그램_최종테스트](https://github.com/rladpwl0512/javascript-teammatching-precourse)|[javascript-teammatching-precourse](https://github.com/woowacourse/javascript-teammatching-precourse)|[pr](https://github.com/woowacourse/javascript-teammatching-precourse/pull/51)|
+|[숫자 야구 게임](https://github.com/woowacourse/javascript-baseball-precourse)|[javascript-baseball-precourse](https://github.com/woowacourse/javascript-baseball-precourse)|[pull request](https://github.com/woowacourse/javascript-baseball-precourse/pull/134)|
+|[자동차 경주 게임](https://github.com/woowacourse/javascript-racingcar-precourse)|[javascript-racingcar-precourse](https://github.com/woowacourse/javascript-racingcar-precourse)|[pull request](https://github.com/woowacourse/javascript-racingcar-precourse/pull/107)|
+|[자판기](https://github.com/woowacourse/javascript-vendingmachine-precourse)|[javascript-vendingmachine-precourse](https://github.com/woowacourse/javascript-vendingmachine-precourse)|[pull request](https://github.com/woowacourse/javascript-vendingmachine-precourse/pull/51)|
+|[팀매칭 프로그램_최종테스트](https://github.com/rladpwl0512/javascript-teammatching-precourse)|[javascript-teammatching-precourse](https://github.com/woowacourse/javascript-teammatching-precourse)|[pull request](https://github.com/woowacourse/javascript-teammatching-precourse/pull/51)|
 
 ### 블로그 글
 - [[우아한테크코스 4기] 1차 합격 회고](https://velog.io/@rladpwl0512/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-1%EC%B0%A8-%ED%95%A9%EA%B2%A9-%ED%9A%8C%EA%B3%A0)
@@ -68,10 +68,10 @@
 2022.06.28 ~ 2022.08.19
 
 ### 학습 목표 
-- 프론트엔드의 기본이 되는 HTML, CSS, JavaScript에 대한 기본 문법을 익혀 프로그래밍을 합니다.
-- 구현한 코드에 대해 E2E 테스트, 유닛 테스트를 작성하고 읽기 좋은 코드로 리팩터링합니다.
+- 개발 프로세스 기반으로 프로젝트를 진행, 협업하는 경험을 한다.
 
 ### 기록 
+- 블로그, 유튜브 
 
 
 ## 4️⃣ level4 
@@ -92,27 +92,9 @@
 |항공사 웹사이트의 컴포넌트 접근성 높이기 Step1|[a11y-airline](https://github.com/woowacourse/a11y-airline)|[pull request](https://github.com/woowacourse/a11y-airline/pull/54)|-|[@InKyoJeong](https://github.com/InKyoJeong)|
 |항공사 웹사이트의 컴포넌트 접근성 높이기 Step2|[a11y-airline](https://github.com/woowacourse/a11y-airline)|[pull request](https://github.com/woowacourse/a11y-airline/pull/82)|-|[@InKyoJeong](https://github.com/InKyoJeong)|
 
-
-
-## 5️⃣ level5
-### 기간 
-2022.10.31 ~ 2022.11.25
-
-### 학습 목표 
-- 프론트엔드의 기본이 되는 HTML, CSS, JavaScript에 대한 기본 문법을 익혀 프로그래밍을 합니다.
-- 구현한 코드에 대해 E2E 테스트, 유닛 테스트를 작성하고 읽기 좋은 코드로 리팩터링합니다.
-
-### 기록 
-|미션|REPO|PR|공부노트|리뷰어님|페어
-|-|-|-|-|-|-|
-|계산기|[javascript-calculator](https://github.com/woowacourse/javascript-calculator)|[pull request](https://github.com/woowacourse/javascript-calculator/pull/37)|-|-|[@DomMorello](https://github.com/DomMorello) [@InKyoJeong](https://github.com/InKyoJeong)|
+## 테코톡 
 
 ## 글쓰기 
-
-## 프로젝트 
-- 블로그, 유튜브 
-
-## 테코톡 
 
 ## 블로그 글 
 
