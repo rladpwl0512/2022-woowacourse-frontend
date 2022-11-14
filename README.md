@@ -59,8 +59,11 @@
 |페이먼츠 미션 Step 3|[react-payments](https://github.com/woowacourse/react-payments)|[pull request](https://github.com/woowacourse/react-payments/pull/172)|-|[@inwalter99](https://github.com/inwalter99)|-|
 |장바구니 미션 Step 1|[react-shopping-cart](https://github.com/woowacourse/react-shopping-cart)|[pull request](https://github.com/woowacourse/react-shopping-cart/pull/68)|-|[@glassyi](https://github.com/glassyi)|[@yunjin-kim](https://github.com/yunjin-kim) [@sanaandmomo](https://github.com/sanaandmomo)|
 |장바구니 미션 Step 2|[react-shopping-cart](https://github.com/woowacourse/react-shopping-cart)|[pull request](https://github.com/woowacourse/react-shopping-cart/pull/140)|-|[@glassyi](https://github.com/glassyi)|-|
+|장바구니 협업 미션 Step 1|[react-shopping-cart-prod](https://github.com/woowacourse/react-shopping-cart-prod)|[pull request](https://github.com/woowacourse/react-shopping-cart-prod/pull/10)|-|[@youngbeomrhee](https://github.com/youngbeomrhee)|[@jhy979](https://github.com/jhy979)|
+|장바구니 협업 미션 Step 2|[react-shopping-cart-prod](https://github.com/woowacourse/react-shopping-cart-prod)|[pull request](https://github.com/woowacourse/react-shopping-cart-prod/pull/52)|-|[@youngbeomrhee](https://github.com/youngbeomrhee)|[@jhy979](https://github.com/jhy979)|
 
 ## 3️⃣ level3
+프로젝트 
 ### 기간 
 2022.06.28 ~ 2022.08.19
 
