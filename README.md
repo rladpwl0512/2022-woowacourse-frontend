@@ -62,7 +62,7 @@
 |장바구니 협업 미션 Step 1|[react-shopping-cart-prod](https://github.com/woowacourse/react-shopping-cart-prod)|[pull request](https://github.com/woowacourse/react-shopping-cart-prod/pull/10)|[@youngbeomrhee](https://github.com/youngbeomrhee)|[@jhy979](https://github.com/jhy979)|
 |장바구니 협업 미션 Step 2|[react-shopping-cart-prod](https://github.com/woowacourse/react-shopping-cart-prod)|[pull request](https://github.com/woowacourse/react-shopping-cart-prod/pull/52)|[@youngbeomrhee](https://github.com/youngbeomrhee)|[@jhy979](https://github.com/jhy979)|
 
-## 3️⃣ level3: 팀 프로젝트(모락) 
+## 3️⃣ level3: 팀 프로젝트 (모락) 
 ### 기간 
 `2022.06.28 ~ 2022.08.19`
 
@@ -77,7 +77,7 @@
 <br />더 자세한 프로젝트 소개는 [모락 github 저장소](https://github.com/woowacourse-teams/2022-mo-rak) 에서 볼 수 있습니다. 
 
 
-## 4️⃣ level4: 팀 프로젝트(모락) + 웹 프로그래밍 심화 
+## 4️⃣ level4: 팀 프로젝트 (모락) + 웹 프로그래밍 심화 
 ### 기간 
 `2022.08.30 ~ 2022.10.28`
 
