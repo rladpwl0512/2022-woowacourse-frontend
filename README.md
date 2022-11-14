@@ -46,14 +46,19 @@
 2022.04.19 ~ 2022.06.10
 
 ### 학습 목표 
-- 프론트엔드의 기본이 되는 HTML, CSS, JavaScript에 대한 기본 문법을 익혀 프로그래밍을 합니다.
-- 구현한 코드에 대해 E2E 테스트, 유닛 테스트를 작성하고 읽기 좋은 코드로 리팩터링합니다.
+- 모던 SPA 웹 애플리케이션을 온전히 개발한다. (React 생태계)
+- 직접 Boilerplate를 만들거나 CRA 등의 도구를 활용하여 NPM 생태계를 본격적으로 활용해본다.
 
 ### 기록 
 |미션|REPO|PR|공부노트|리뷰어님|페어
 |-|-|-|-|-|-|
-|계산기|[javascript-calculator](https://github.com/woowacourse/javascript-calculator)|[pull request](https://github.com/woowacourse/javascript-calculator/pull/37)|-|-|[@DomMorello](https://github.com/DomMorello) [@InKyoJeong](https://github.com/InKyoJeong)|
-
+|계산기 미션 Step 1|[react-calculator](https://github.com/woowacourse/react-calculator)|[pull request](https://github.com/woowacourse/react-calculator/pull/30)|-|[@lsw1164](https://github.com/lsw1164)|[@jin7969](https://github.com/jin7969)|
+|계산기 미션 Step 2|[react-calculator](https://github.com/woowacourse/react-calculator)|[pull request](https://github.com/woowacourse/react-calculator/pull/62)|-|[@lsw1164](https://github.com/lsw1164)|-|
+|페이먼츠 미션 Step 1|[react-payments](https://github.com/woowacourse/react-payments)|[pull request](https://github.com/woowacourse/react-payments/pull/76)|-|[@inwalter99](https://github.com/inwalter99)|[@jswith](https://github.com/jswith)|
+|페이먼츠 미션 Step 2|[react-payments](https://github.com/woowacourse/react-payments)|[pull request](https://github.com/woowacourse/react-payments/pull/132)|-|[@inwalter99](https://github.com/inwalter99)|-|
+|페이먼츠 미션 Step 3|[react-payments](https://github.com/woowacourse/react-payments)|[pull request](https://github.com/woowacourse/react-payments/pull/172)|-|[@inwalter99](https://github.com/inwalter99)|-|
+|장바구니 미션 Step 1|[react-shopping-cart](https://github.com/woowacourse/react-shopping-cart)|[pull request](https://github.com/woowacourse/react-shopping-cart/pull/68)|-|[@glassyi](https://github.com/glassyi)|[@yunjin-kim](https://github.com/yunjin-kim) [@sanaandmomo](https://github.com/sanaandmomo)|
+|장바구니 미션 Step 2|[react-shopping-cart](https://github.com/woowacourse/react-shopping-cart)|[pull request](https://github.com/woowacourse/react-shopping-cart/pull/140)|-|[@glassyi](https://github.com/glassyi)|-|
 
 ## 3️⃣ level3
 ### 기간 
@@ -64,10 +69,6 @@
 - 구현한 코드에 대해 E2E 테스트, 유닛 테스트를 작성하고 읽기 좋은 코드로 리팩터링합니다.
 
 ### 기록 
-|미션|REPO|PR|공부노트|리뷰어님|페어
-|-|-|-|-|-|-|
-|계산기|[javascript-calculator](https://github.com/woowacourse/javascript-calculator)|[pull request](https://github.com/woowacourse/javascript-calculator/pull/37)|-|-|[@DomMorello](https://github.com/DomMorello) [@InKyoJeong](https://github.com/InKyoJeong)|
-
 
 
 ## 4️⃣ level4 
