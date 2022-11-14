@@ -42,12 +42,59 @@
 |level2-자판기|[javascript-vendingmachine](https://github.com/woowacourse/javascript-vendingmachine)|[pull request]()|[자판기 Learned](https://www.notion.so/study-a35b2caf91764f5bbc0fc388cafe2751)|[@roy-jung](https://github.com/roy-jung)|-|
 
 ## 2️⃣ level2 
+### 기간 
+2022.04.19 ~ 2022.06.10
+
+### 학습 목표 
+- 프론트엔드의 기본이 되는 HTML, CSS, JavaScript에 대한 기본 문법을 익혀 프로그래밍을 합니다.
+- 구현한 코드에 대해 E2E 테스트, 유닛 테스트를 작성하고 읽기 좋은 코드로 리팩터링합니다.
+
+### 기록 
+|미션|REPO|PR|공부노트|리뷰어님|페어
+|-|-|-|-|-|-|
+|계산기|[javascript-calculator](https://github.com/woowacourse/javascript-calculator)|[pull request](https://github.com/woowacourse/javascript-calculator/pull/37)|-|-|[@DomMorello](https://github.com/DomMorello) [@InKyoJeong](https://github.com/InKyoJeong)|
+
 
 ## 3️⃣ level3
+### 기간 
+2022.06.28 ~ 2022.08.19
+
+### 학습 목표 
+- 프론트엔드의 기본이 되는 HTML, CSS, JavaScript에 대한 기본 문법을 익혀 프로그래밍을 합니다.
+- 구현한 코드에 대해 E2E 테스트, 유닛 테스트를 작성하고 읽기 좋은 코드로 리팩터링합니다.
+
+### 기록 
+|미션|REPO|PR|공부노트|리뷰어님|페어
+|-|-|-|-|-|-|
+|계산기|[javascript-calculator](https://github.com/woowacourse/javascript-calculator)|[pull request](https://github.com/woowacourse/javascript-calculator/pull/37)|-|-|[@DomMorello](https://github.com/DomMorello) [@InKyoJeong](https://github.com/InKyoJeong)|
+
+
 
 ## 4️⃣ level4 
+### 기간 
+2022.08.30 ~ 2022.10.28
+
+### 학습 목표 
+- 프론트엔드의 기본이 되는 HTML, CSS, JavaScript에 대한 기본 문법을 익혀 프로그래밍을 합니다.
+- 구현한 코드에 대해 E2E 테스트, 유닛 테스트를 작성하고 읽기 좋은 코드로 리팩터링합니다.
+
+### 기록 
+|미션|REPO|PR|공부노트|리뷰어님|페어
+|-|-|-|-|-|-|
+|계산기|[javascript-calculator](https://github.com/woowacourse/javascript-calculator)|[pull request](https://github.com/woowacourse/javascript-calculator/pull/37)|-|-|[@DomMorello](https://github.com/DomMorello) [@InKyoJeong](https://github.com/InKyoJeong)|
 
 ## 5️⃣ level5
+### 기간 
+2022.10.31 ~ 2022.11.25
+
+### 학습 목표 
+- 프론트엔드의 기본이 되는 HTML, CSS, JavaScript에 대한 기본 문법을 익혀 프로그래밍을 합니다.
+- 구현한 코드에 대해 E2E 테스트, 유닛 테스트를 작성하고 읽기 좋은 코드로 리팩터링합니다.
+
+### 기록 
+|미션|REPO|PR|공부노트|리뷰어님|페어
+|-|-|-|-|-|-|
+|계산기|[javascript-calculator](https://github.com/woowacourse/javascript-calculator)|[pull request](https://github.com/woowacourse/javascript-calculator/pull/37)|-|-|[@DomMorello](https://github.com/DomMorello) [@InKyoJeong](https://github.com/InKyoJeong)|
 
 ## 글쓰기 
 
