@@ -96,7 +96,7 @@
 |항공사 웹사이트의 컴포넌트 접근성 높이기 Step2|[a11y-airline](https://github.com/woowacourse/a11y-airline)|[pull request](https://github.com/woowacourse/a11y-airline/pull/82)|-|[@InKyoJeong](https://github.com/InKyoJeong)|
 
 ## 🎤 테코톡 발표 
-[<img src="https://i.ytimg.com/vi/0fzA1cRxFiU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7s4_e_Hmafg5YSMuzz9Tlru6GRw" />](https://i.ytimg.com/vi/0fzA1cRxFiU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7s4_e_Hmafg5YSMuzz9Tlru6GRw)
+[<img src="https://i.ytimg.com/vi/0fzA1cRxFiU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7s4_e_Hmafg5YSMuzz9Tlru6GRw" />](https://www.youtube.com/watch?v=0fzA1cRxFiU)
 
 [[10분 테코톡] 위니의 프론트엔드 개발자에게 UX란](https://www.youtube.com/watch?v=0fzA1cRxFiU)
 
