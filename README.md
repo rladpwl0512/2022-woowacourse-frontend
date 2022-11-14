@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/52344833/201592298-a1ed45b2-e763-4d6d-ae4e-32cd4b1fc427.png" width="400px" />
 
-## 0️⃣ PRE-COURSE / FINAL-TEST
+## 0️⃣ 지원 과제 및 최종 테스트 
 ### 기간 
 2021.11.24 ~ 2021.12.18
 ### 기록 
@@ -20,7 +20,7 @@
 - [[우아한테크코스 4기] 최종테스트 회고](https://velog.io/@rladpwl0512/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-%EC%B5%9C%EC%A2%85%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%9A%8C%EA%B3%A0)
 - [[우아한테크코스 4기] 최종 합격](https://velog.io/@rladpwl0512/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-%EC%B5%9C%EC%A2%85-%ED%95%A9%EA%B2%A9)
 
-## 1️⃣ LEVEL1 
+## 1️⃣ LEVEL1: 프로그래밍 기본 
 ### 기간 
 2022.02.08 ~ 2022.04.08
 
@@ -32,16 +32,16 @@
 |미션|REPO|PR|공부노트|리뷰어님|페어
 |-|-|-|-|-|-|
 |계산기|[javascript-calculator](https://github.com/woowacourse/javascript-calculator)|[pull request](https://github.com/woowacourse/javascript-calculator/pull/37)|-|-|[@DomMorello](https://github.com/DomMorello) [@InKyoJeong](https://github.com/InKyoJeong)|
-|level1-자동차 경주|[javascript-racingcar](https://github.com/woowacourse/javascript-racingcar)|[pull request](https://github.com/woowacourse/javascript-racingcar/pull/66)|-|[@inwalter99](https://github.com/inwalter99)|[@DomMorello](https://github.com/DomMorello) [@InKyoJeong](https://github.com/InKyoJeong)|
-|level2-자동차 경주|[javascript-racingcar](https://github.com/woowacourse/javascript-racingcar)|[pull request](https://github.com/woowacourse/javascript-racingcar/pull/147)|[자동차 경주 미션 Learned](https://encouraging-stinger-a25.notion.site/cc35acb844444e37bb93094a194106ac)|[@inwalter99](https://github.com/inwalter99)|-|
-|level1-로또|[javascript-lotto](https://github.com/woowacourse/javascript-lotto)|[pull request](https://github.com/woowacourse/javascript-lotto/pull/96)|-|[@lsw1164](https://github.com/lsw1164)|[@hwangstar156](https://github.com/hwangstar156)|
-|level2-로또|[javascript-lotto](https://github.com/woowacourse/javascript-lotto)|[pull request](https://github.com/woowacourse/javascript-lotto/pull/147)|[로또 미션 Learned](https://encouraging-stinger-a25.notion.site/f883dc9d7a854a19ac2de5b9c6133f8e)|[@lsw1164](https://github.com/lsw1164)|-|
-|level1-유튜브 강의실|[javascript-youtube-classroom](https://github.com/woowacourse/javascript-youtube-classroom)|[pull request](https://github.com/woowacourse/javascript-youtube-classroom/pull/103)|-|[@austinpark420](https://github.com/austinpark420) [@pocojang](https://github.com/pocojang)|[@wonsss](https://github.com/wonsss)|
-|level2-유튜브 강의실|[javascript-youtube-classroom](https://github.com/woowacourse/javascript-youtube-classroom)|[pull request](https://github.com/woowacourse/javascript-youtube-classroom/pull/150)|[유튜브 강의실 Learned](https://www.notion.so/f52b66a0a7ae4c0c8f378e465646abf6)|[@wmakerjun](https://github.com/wmakerjun)|-|
-|level1-자판기|[javascript-vendingmachine](https://github.com/woowacourse/javascript-vendingmachine)|[pull request](https://github.com/woowacourse/javascript-vendingmachine/pull/36)|-|[@roy-jung](https://github.com/roy-jung)|[@daaaayeah](https://github.com/daaaayeah)|
-|level2-자판기|[javascript-vendingmachine](https://github.com/woowacourse/javascript-vendingmachine)|[pull request]()|[자판기 Learned](https://www.notion.so/study-a35b2caf91764f5bbc0fc388cafe2751)|[@roy-jung](https://github.com/roy-jung)|-|
+|자동차 경주 Step1|[javascript-racingcar](https://github.com/woowacourse/javascript-racingcar)|[pull request](https://github.com/woowacourse/javascript-racingcar/pull/66)|-|[@inwalter99](https://github.com/inwalter99)|[@DomMorello](https://github.com/DomMorello) [@InKyoJeong](https://github.com/InKyoJeong)|
+|자동차 경주 Step2|[javascript-racingcar](https://github.com/woowacourse/javascript-racingcar)|[pull request](https://github.com/woowacourse/javascript-racingcar/pull/147)|[자동차 경주 미션 Learned](https://encouraging-stinger-a25.notion.site/cc35acb844444e37bb93094a194106ac)|[@inwalter99](https://github.com/inwalter99)|-|
+|로또 Step1|[javascript-lotto](https://github.com/woowacourse/javascript-lotto)|[pull request](https://github.com/woowacourse/javascript-lotto/pull/96)|-|[@lsw1164](https://github.com/lsw1164)|[@hwangstar156](https://github.com/hwangstar156)|
+|로또 Step2|[javascript-lotto](https://github.com/woowacourse/javascript-lotto)|[pull request](https://github.com/woowacourse/javascript-lotto/pull/147)|[로또 미션 Learned](https://encouraging-stinger-a25.notion.site/f883dc9d7a854a19ac2de5b9c6133f8e)|[@lsw1164](https://github.com/lsw1164)|-|
+|유튜브 강의실 Step1|[javascript-youtube-classroom](https://github.com/woowacourse/javascript-youtube-classroom)|[pull request](https://github.com/woowacourse/javascript-youtube-classroom/pull/103)|-|[@austinpark420](https://github.com/austinpark420) [@pocojang](https://github.com/pocojang)|[@wonsss](https://github.com/wonsss)|
+|유튜브 강의실 Step2|[javascript-youtube-classroom](https://github.com/woowacourse/javascript-youtube-classroom)|[pull request](https://github.com/woowacourse/javascript-youtube-classroom/pull/150)|[유튜브 강의실 Learned](https://www.notion.so/f52b66a0a7ae4c0c8f378e465646abf6)|[@wmakerjun](https://github.com/wmakerjun)|-|
+|자판기 Step1|[javascript-vendingmachine](https://github.com/woowacourse/javascript-vendingmachine)|[pull request](https://github.com/woowacourse/javascript-vendingmachine/pull/36)|-|[@roy-jung](https://github.com/roy-jung)|[@daaaayeah](https://github.com/daaaayeah)|
+|자판기 Step2|[javascript-vendingmachine](https://github.com/woowacourse/javascript-vendingmachine)|[pull request]()|[자판기 Learned](https://www.notion.so/study-a35b2caf91764f5bbc0fc388cafe2751)|[@roy-jung](https://github.com/roy-jung)|-|
 
-## 2️⃣ level2 
+## 2️⃣ level2: 웹 프로그래밍 
 ### 기간 
 2022.04.19 ~ 2022.06.10
 
@@ -62,19 +62,22 @@
 |장바구니 협업 미션 Step 1|[react-shopping-cart-prod](https://github.com/woowacourse/react-shopping-cart-prod)|[pull request](https://github.com/woowacourse/react-shopping-cart-prod/pull/10)|-|[@youngbeomrhee](https://github.com/youngbeomrhee)|[@jhy979](https://github.com/jhy979)|
 |장바구니 협업 미션 Step 2|[react-shopping-cart-prod](https://github.com/woowacourse/react-shopping-cart-prod)|[pull request](https://github.com/woowacourse/react-shopping-cart-prod/pull/52)|-|[@youngbeomrhee](https://github.com/youngbeomrhee)|[@jhy979](https://github.com/jhy979)|
 
-## 3️⃣ level3
-프로젝트 
+## 3️⃣ level3: 팀 프로젝트(모락) 
 ### 기간 
 2022.06.28 ~ 2022.08.19
 
 ### 학습 목표 
 - 개발 프로세스 기반으로 프로젝트를 진행, 협업하는 경험을 한다.
 
-### 기록 
-- 블로그, 유튜브 
+### 서비스 소개 
+[<img width="500px" alt="스크린샷 2022-11-14 오후 11 50 34" src="https://user-images.githubusercontent.com/52344833/201690587-e4e5d937-21f6-4d02-a9c1-64bd5e71c0e6.png">](https://mo-rak.com/)
+
+[모락](https://mo-rak.com/)은 모임에 필요한 다양한 기능들(투표하기, 약속잡기, 역할 정하기)을 모아서 제공해주는 모임 기반 서비스입니다.
+<br />서비스를 통해 사용자들이 모임을 더 편하게 즐길 수 있도록 도와주기를 지향합니다. 
+<br />더 자세한 프로젝트 소개는 [모락 github 저장소](https://github.com/woowacourse-teams/2022-mo-rak) 에서 볼 수 있습니다. 
 
 
-## 4️⃣ level4 
+## 4️⃣ level4: 팀 프로젝트(모락) + 웹 프로그래밍 심화 
 ### 기간 
 2022.08.30 ~ 2022.10.28
 
