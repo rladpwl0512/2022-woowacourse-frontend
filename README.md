@@ -1,16 +1,16 @@
-# 우아한테크코스 프론트엔드 4기 
+# [우아한테크코스](https://woowacourse.github.io/) 프론트엔드 4기 
 우아한테크코스 프론트엔드 4기 과정을 기록합니다 👩🏻‍💻
 
 ## 0️⃣ PRE-COURSE / FINAL-TEST
 ### 기간 
 2021.11.24 ~ 2021.12.18
 ### 기록 
-|미션|PR|
-|-|-|
-|[숫자 야구 게임](https://github.com/woowacourse/javascript-baseball-precourse)|[pull request](https://github.com/woowacourse/javascript-baseball-precourse/pull/134)|
-|[자동차 경주 게임](https://github.com/woowacourse/javascript-racingcar-precourse)|[pull request](https://github.com/woowacourse/javascript-racingcar-precourse/pull/107)|
-|[자판기](https://github.com/woowacourse/javascript-vendingmachine-precourse)|[pull request](https://github.com/woowacourse/javascript-vendingmachine-precourse/pull/51)|
-|[팀매칭 프로그램_최종테스트](https://github.com/rladpwl0512/javascript-teammatching-precourse)|[pull request](https://github.com/woowacourse/javascript-teammatching-precourse/pull/51)|
+|미션|REPO|PR|
+|-|-|-|
+|[숫자 야구 게임](https://github.com/woowacourse/javascript-baseball-precourse)|[javascript-baseball-precourse](https://github.com/woowacourse/javascript-baseball-precourse)|[pr](https://github.com/woowacourse/javascript-baseball-precourse/pull/134)|
+|[자동차 경주 게임](https://github.com/woowacourse/javascript-racingcar-precourse)|[javascript-racingcar-precourse](https://github.com/woowacourse/javascript-racingcar-precourse)|[pr](https://github.com/woowacourse/javascript-racingcar-precourse/pull/107)|
+|[자판기](https://github.com/woowacourse/javascript-vendingmachine-precourse)|[javascript-vendingmachine-precourse](https://github.com/woowacourse/javascript-vendingmachine-precourse)|[pr](https://github.com/woowacourse/javascript-vendingmachine-precourse/pull/51)|
+|[팀매칭 프로그램_최종테스트](https://github.com/rladpwl0512/javascript-teammatching-precourse)|[javascript-teammatching-precourse](https://github.com/woowacourse/javascript-teammatching-precourse)|[pr](https://github.com/woowacourse/javascript-teammatching-precourse/pull/51)|
 
 ### 블로그 글
 - [[우아한테크코스 4기] 1차 합격 회고](https://velog.io/@rladpwl0512/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-1%EC%B0%A8-%ED%95%A9%EA%B2%A9-%ED%9A%8C%EA%B3%A0)
@@ -41,6 +41,21 @@
 |[level1-자판기](https://github.com/woowacourse/javascript-vendingmachine)|[@daaaayeah](https://github.com/daaaayeah)|[pull request](https://github.com/woowacourse/javascript-vendingmachine/pull/36)|-|[@roy-jung](https://github.com/roy-jung)|
 |[level2-자판기](https://github.com/woowacourse/javascript-vendingmachine)|-|[pull request]()|[자판기 Learned](https://www.notion.so/study-a35b2caf91764f5bbc0fc388cafe2751)|[@roy-jung](https://github.com/roy-jung)|
 
+### 블로그 
 
-## level2 
+## 2️⃣ level2 
 
+## 3️⃣ level3
+
+## 4️⃣ level4 
+
+## 5️⃣ level5
+
+## 글쓰기 
+
+## 프로젝트 
+- 블로그, 유튜브 
+
+## 테코톡 
+
+## 블로그 글 
